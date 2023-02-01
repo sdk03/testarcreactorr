@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "sdk03",
+    "repo": "testarcreactorr",
+    "branch": "master"
+  },
+  "name": "testArcReactor",
+  "description": "",
+  "version": "1.0.0"
+}
